@@ -72,64 +72,76 @@ img{
 #ho1{
 	
 	background:url(images/full.png);
+	background-size: contain;
+	background-position: center;
+	/*display:flex;
+	justify-content: center;
+	align-items: center; 
 	height: 30px;
-	width: 30px;
+	width: 30px;*/
 }
 #ho1:hover{
 
 	background-image: url(images/1.png);
+	background-size: contain;
+	background-position: center;
+	
+
+	/*display:flex;
+	justify-content: center;
+	align-items: center; 
 	height: 30px;
-	width: 30px;
+	width: 30px;*/
 }
 
 #ho2{
 	
 	background:url(images/full.png);
-	height: 30px;
-	width: 30px;
+	background-size: contain;
+	background-position: center;
 }
 #ho2:hover{
 
 	background-image: url(images/vide.png);
-	height: 30px;
-	width: 30px;
+	background-size: contain;
+	background-position: center;
 }
 
 #ho2{
 	
 	background:url(images/full.png);
-	height: 30px;
-	width: 30px;
+	background-size: contain;
+	background-position: center;
 }
 #ho2:hover{
 
 	background-image: url(images/vide.png);
-	height: 30px;
-	width: 30px;
+	background-size: contain;
+	background-position: center;
 }
 #ho3{
 	
 	background:url(images/full.png);
-	height: 30px;
-	width: 30px;
+	background-size: contain;
+	background-position: center;
 }
 #ho3:hover{
 
 	background-image: url(images/vide.png);
-	height: 30px;
-	width: 30px;
+	background-size: contain;
+	background-position: center;
 }
 #ho4{
 	
 	background:url(images/full.png);
-	height: 30px;
-	width: 30px;
+	background-size: contain;
+	background-position: center;
 }
 #ho4:hover{
 
 	background-image: url(images/vide.png);
-	height: 30px;
-	width: 30px;
+	background-size: contain;
+	background-position: center;
 }
 
 .c8_l1, .c8_l2,.c8_l3,.c8_l4,.c8_l5,.c8_l6,.c8_l7,.c8_l8{
@@ -141,85 +153,85 @@ img{
 #ho5{
 	
 	background:url(images/full.png);
-	height: 30px;
-	width: 30px;
+	background-size: contain;
+	background-position: center;
 }
 #ho5:hover{
 
 	background-image: url(images/vide.png);
-	height: 30px;
-	width: 30px;
+	background-size: contain;
+	background-position: center;
 }
 
 #ho6{
 	
 	background:url(images/full.png);
-	height: 30px;
-	width: 30px;
+	background-size: contain;
+	background-position: center;
 }
 #ho6:hover{
 
 	background-image: url(images/1.png);
-	height: 30px;
-	width: 30px;
+	background-size: contain;
+	background-position: center;
 }
 #ho7{
 	
 	background:url(images/full.png);
-	height: 30px;
-	width: 30px;
+	background-size: contain;
+	background-position: center;
 }
 #ho7:hover{
 
 	background-image: url(images/vide.png);
-	height: 30px;
-	width: 30px;
+	background-size: contain;
+	background-position: center;
 }
 #ho8{
 	
 	background:url(images/full.png);
-	height: 30px;
-	width: 30px;
+	background-size: contain;
+	background-position: center;
 }
 #ho8:hover{
 
 	background-image: url(images/3.png);
-	height: 30px;
-	width: 30px;
+	background-size: contain;
+	background-position: center;
 }
 #ho9{
 	
 	background:url(images/full.png);
-	height: 30px;
-	width: 30px;
+	background-size: contain;
+	background-position: center;
 }
 #ho9:hover{
 
 	background-image: url(images/vide.png);
-	height: 30px;
-	width: 30px;
+	background-size: contain;
+	background-position: center;
 }
 #ho10{
 	
 	background:url(images/full.png);
-	height: 30px;
-	width: 30px;
+	background-size: contain;
+	background-position: center;
 }
 #ho10:hover{
 
 	background-image: url(images/2.png);
-	height: 30px;
-	width: 30px;
+	background-size: contain;
+	background-position: center;
 }
 #ho11{
 	
 	background:url(images/full.png);
-	height: 30px;
-	width: 30px;
+	background-size: contain;
+	background-position: center;
 }
 #ho11:hover{
 
 	background-image: url(images/mine.png);
-	height: 30px;
-	width: 30px;
+	background-size: contain;
+	background-position: center;
 }
