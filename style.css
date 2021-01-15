@@ -63,6 +63,20 @@ img{
 	height: 30px;
 	width: 30px;
 }
+
+#ho0{
+	
+	background:url(images/full.png);
+	background-size: contain;
+	background-position: center;
+}
+#ho0:hover{
+
+	background-image: url(images/2.png);
+	background-size: contain;
+	background-position: center;
+}
+
 .c7_l1, .c7_l2,.c7_l3,.c7_l4,.c7_l5,.c7_l6,.c7_l7,.c7_l8{
 	border:1px dashed black;
 	height: 30px;
